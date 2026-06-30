@@ -1,0 +1,4 @@
+PATIENT_NAME,AGE,GENDER,PHONE,EMAIL,ADDRESS,CITY,BLOOD_GROUP,EMERGENCY_CONTACT
+Amit Kumar,30,Male,9200000001,amit.kumar@example.com,HSR Layout,Bengaluru,O+,9200000101
+Neha Reddy,27,Female,9200000002,,BTM Layout,Bengaluru,A+,9200000102
+Rahul Naidu,41,Male,9200000003,rahul.naidu@example.com,Indiranagar,Bengaluru,,9200000103
